@@ -1,0 +1,3 @@
+geopandas
+streamlit
+git+git://github.com/giswqs/geemap
